@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<pluginPath content="D:/work/AndroidPlugin/"></pluginPath>
+	<apkPath content="D:/apk/"></apkPath>
+
+	<channels>
+		<channel>
+			<name content="XiaoYou"></name>
+			<bundleId content="com.xiaoyou.toramOnlineXY"></bundleId>
+			<version content="0.2.45"></version>
+			<versionCode content="134"></versionCode>
+		</channel>
+	</channels>
+
+</document>
+
